@@ -1,0 +1,7 @@
+{
+  "appId": "com.deepseek.chatdemo",
+  "appName": "DeepSeek Chat",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "telemetry": false
+}
