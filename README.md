@@ -29,6 +29,9 @@
 2. **Native 层**：由 Capacitor 生成的 Android 原生工程（存放于 `android/` 目录），提供 WebView 容器及系统权限支持。
 
 ---
+## 🚀正式版1.0
+请前往https://github.com/RIDDLER-FATCAT/deepseekchat/releases
+---
 
 ## 🛠️ 本地开发与编译指南
 
@@ -38,7 +41,7 @@
 在开始之前，请确保你的电脑已安装以下环境：
 - [Node.js](https://nodejs.org/) (推荐 v20 或更高版本)
 - [Android Studio](https://developer.android.com/studio) (推荐最新稳定版)
-- 本地已配置好 **JDK 17** 及 **Android SDK**
+- 本地已配置好 **JDK 21** 及 **Android SDK**
 
 ### 2. 克隆仓库并安装依赖
 
