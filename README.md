@@ -45,7 +45,7 @@
 
 # 克隆本项目
 ```bash
-git clone https://github.com/riddler/deepseekchat.git
+git clone https://github.com/RIDDLER-FATCAT/deepseekchat.git
 cd deepseekchat
 ```
 
