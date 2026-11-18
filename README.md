@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/icon.png" alt="图标" width="150">
+</div>
 # 📱 DeepSeek Api Chat Mobile (非官方 Android 客户端)
 
 <p align="center">
