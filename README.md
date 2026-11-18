@@ -59,8 +59,9 @@ npm install
 3. 网页端修改与同步
 如果你修改了 www/ 目录下的 HTML/CSS/JS 代码，或者重新拉取了官方最新的网页构建产物，必须执行同步命令，将网页文件推送到安卓工程中：
 
-bash
+```bash
 npx cap sync android
+```
 4. 编译 APK
 你可以通过两种方式生成安装包：
 
