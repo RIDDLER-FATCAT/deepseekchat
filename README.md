@@ -1,4 +1,4 @@
-# 📱 DeepSeek Chat Mobile (非官方 Android 客户端)
+# 📱 DeepSeek Api Chat Mobile (非官方 Android 客户端)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
@@ -9,7 +9,7 @@
 
 > 本项目是基于 [DeepSeek 官方 chat-demo](https://github.com/deepseek-ai/chat-demo) 网页端，通过 [Capacitor](https://capacitorjs.com/) 技术封装而成的 Android App。
 
-由于官方暂未推出独立的移动端 App，本项目旨在提供一个简洁、安全、无广告的套壳方案，方便用户在 Android 手机上获得接近原生的对话体验。
+本项目旨在提供一个简洁、安全、无广告的deepseek api全家桶套壳方案，方便用户在 Android 手机上获得接近原生的对话体验。
 
 ---
 
