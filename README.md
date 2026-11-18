@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/icon.png" alt="图标" width="150">
 </div>
+
 ## 📱 DeepSeek Api Chat Mobile (非官方 Android 客户端)
 
 <p align="center">
@@ -35,6 +36,7 @@
 ## 🚀正式版1.0
 
 请前往https://github.com/RIDDLER-FATCAT/deepseekchat/releases
+
 ---
 
 ## 🛠️ 本地开发与编译指南
